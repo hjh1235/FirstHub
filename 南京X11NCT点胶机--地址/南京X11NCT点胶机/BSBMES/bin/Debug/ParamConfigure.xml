@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParamList>
+  <Param name="左打胶时间">
+    <ParamFirstLower>1800</ParamFirstLower>
+    <ParamFirstUpper>2400</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+  <Param name="右打胶时间">
+    <ParamFirstLower>1800</ParamFirstLower>
+    <ParamFirstUpper>3000</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+<Param name="左面积">
+    <ParamFirstLower>0</ParamFirstLower>
+    <ParamFirstUpper>2400</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+<Param name="右面积">
+    <ParamFirstLower>0</ParamFirstLower>
+    <ParamFirstUpper>2400</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+<Param name="右面积比">
+    <ParamFirstLower>100</ParamFirstLower>
+    <ParamFirstUpper>100</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+<Param name="左面积比">
+    <ParamFirstLower>100</ParamFirstLower>
+    <ParamFirstUpper>100</ParamFirstUpper>
+    <ParamUnit>ms</ParamUnit>
+  </Param>
+</ParamList>

@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UpperComputer</RootNamespace>
+    <AssemblyName>UpperComputer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ArrayRegionTool.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BADB, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\BADB.dll</HintPath>
+    </Reference>
+    <Reference Include="BLL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CSkin, Version=16.1.14.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="EquipBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\EquipBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Equipment, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Equipment.dll</HintPath>
+    </Reference>
+    <Reference Include="HslCommunication, Version=10.2.2.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\HslCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="libzkfpcsharp, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\libzkfpcsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MES, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MES.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>E:\工程\Testby210607\Testby210607\bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>E:\工程\Testby210607\Testby210607\bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="NetWorkHelper, Version=4.18.4.25, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NetWorkHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.1.3.1, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.1.3.1, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.1.3.1, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.1.3.1, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="StationBLL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\StationBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI, Version=3.3.9.0, Culture=neutral, PublicKeyToken=27d7d2e821d97aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.3.3.9\lib\net40\SunnyUI.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI.Common, Version=3.3.9.0, Culture=neutral, PublicKeyToken=5a271fb7ba597231, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.Common.3.3.9\lib\net40\SunnyUI.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.110.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuthorityManagement\FormUpdatePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorityManagement\FormUpdatePassword.Designer.cs">
+      <DependentUpon>FormUpdatePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthorityManagement\FormUserLogoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorityManagement\FormUserLogoin.Designer.cs">
+      <DependentUpon>FormUserLogoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthorityManagement\FormUserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorityManagement\FormUserManage.Designer.cs">
+      <DependentUpon>FormUserManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthorityManagement\SQLiteConnect.cs" />
+    <Compile Include="Communication\CommunicationFun.cs" />
+    <Compile Include="Communication\TCP_IP_Connect.cs" />
+    <Compile Include="DataModel\ClassCANS.cs" />
+    <Compile Include="Classlog.cs" />
+    <Compile Include="ClassNET.cs" />
+    <Compile Include="CLASSPROT.cs" />
+    <Compile Include="DataModel\ClassXMLGET.cs" />
+    <Compile Include="Communication\Communication_Date.cs" />
+    <Compile Include="Communication\Commu_Interface.cs" />
+    <Compile Include="CSV\CsvHelper.cs" />
+    <Compile Include="DataModel\HisDataClass.cs" />
+    <Compile Include="Form\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormStart.Designer.cs">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Formlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Formlogin.Designer.cs">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MainForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainForm1.Designer.cs">
+      <DependentUpon>MainForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ManageForm.Designer.cs">
+      <DependentUpon>ManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MesLoadParForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MesLoadParForm.Designer.cs">
+      <DependentUpon>MesLoadParForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MESParForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MESParForm.Designer.cs">
+      <DependentUpon>MESParForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MunLoadMESForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MunLoadMESForm.Designer.cs">
+      <DependentUpon>MunLoadMESForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SNForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SNForm.Designer.cs">
+      <DependentUpon>SNForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UserFingerRegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UserFingerRegisterForm.Designer.cs">
+      <DependentUpon>UserFingerRegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mes\FtpUpd.cs" />
+    <Compile Include="Mes\HttpPost.cs" />
+    <Compile Include="Mes\ImgFtpUpd.cs" />
+    <Compile Include="Form\ManageShowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ManageShowForm.Designer.cs">
+      <DependentUpon>ManageShowForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mes\mes.cs" />
+    <Compile Include="Form\PointAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PointAddForm.Designer.cs">
+      <DependentUpon>PointAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLCTool\Omron.cs" />
+    <Compile Include="PLCTool\PLCManage.cs" />
+    <Compile Include="PLCTool\PLCTool.cs" />
+    <Compile Include="PLCTool\PLCToolOmron_UDP.cs" />
+    <Compile Include="PLCTool\PLCToolSiemens.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form\RangValueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\RangValueForm.Designer.cs">
+      <DependentUpon>RangValueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeialPort\SerialPort.cs" />
+    <Compile Include="SeialPort\SerialPortFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeialPort\SerialPortFrom.Designer.cs">
+      <DependentUpon>SerialPortFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SettingForm.Designer.cs">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Communication\Socket_server_client.cs" />
+    <Compile Include="TaskUnit\AGVTaskFlow.cs" />
+    <Compile Include="TaskUnit\CheckCCDTaskFlow.cs" />
+    <Compile Include="TaskUnit\DealWithDataFlow1First.cs" />
+    <Compile Include="TaskUnit\DealWithDataFlow2First.cs" />
+    <Compile Include="TaskUnit\DealWithDataFlow2.cs" />
+    <Compile Include="TaskUnit\DealWithDataFlow1.cs" />
+    <Compile Include="TaskUnit\CCDTaskFlow2.cs" />
+    <Compile Include="TaskUnit\CCDTaskFlow1.cs" />
+    <Compile Include="TaskUnit\FirstCheckCCDTaskFlow.cs" />
+    <Compile Include="TaskUnit\InitClass.cs" />
+    <Compile Include="TaskUnit\MesTaskFlow.cs" />
+    <Compile Include="TaskUnit\MonitorClass.cs" />
+    <Compile Include="TaskUnit\ScanTask.cs" />
+    <Compile Include="TaskUnit\TaskClass.cs" />
+    <Compile Include="Communication\TCP_IP_Socket_Class.cs" />
+    <Compile Include="WeldDataClass.cs" />
+    <Compile Include="指纹模块\BasicArithmetic.cs" />
+    <Compile Include="指纹模块\FingerPermission.cs" />
+    <Compile Include="指纹模块\FingerReader.cs" />
+    <Compile Include="指纹模块\Message.cs" />
+    <EmbeddedResource Include="AuthorityManagement\FormUpdatePassword.resx">
+      <DependentUpon>FormUpdatePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuthorityManagement\FormUserLogoin.resx">
+      <DependentUpon>FormUserLogoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuthorityManagement\FormUserManage.resx">
+      <DependentUpon>FormUserManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormStart.resx">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Formlogin.resx">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainForm1.resx">
+      <DependentUpon>MainForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ManageForm.resx">
+      <DependentUpon>ManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ManageShowForm.resx">
+      <DependentUpon>ManageShowForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MesLoadParForm.resx">
+      <DependentUpon>MesLoadParForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MESParForm.resx">
+      <DependentUpon>MESParForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MunLoadMESForm.resx">
+      <DependentUpon>MunLoadMESForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PointAddForm.resx">
+      <DependentUpon>PointAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SNForm.resx">
+      <DependentUpon>SNForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UserFingerRegisterForm.resx">
+      <DependentUpon>UserFingerRegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form\RangValueForm.resx">
+      <DependentUpon>RangValueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeialPort\SerialPortFrom.resx">
+      <DependentUpon>SerialPortFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SettingForm.resx">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退出.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArrayRegionTool.ico" />
+    <None Include="Resources\lamp_white.png" />
+    <None Include="Resources\lamp_red.png" />
+    <None Include="Resources\lamp_green.png" />
+    <None Include="Resources\速博达1.png" />
+    <None Include="Resources\Login.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

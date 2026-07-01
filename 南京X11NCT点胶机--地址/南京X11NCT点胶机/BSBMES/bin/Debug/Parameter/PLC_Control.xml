@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PLC_Control xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <_PLC_ControlData_List>
+    <PLC_ControlData>
+      <PlcReadData />
+      <PlcWriteData />
+      <PLC_ControlDataName>NX</PLC_ControlDataName>
+      <PLC_ControlDataTpye>Tpye</PLC_ControlDataTpye>
+      <PLC_ControlDataVender>欧姆龙</PLC_ControlDataVender>
+      <PLC_ControlAddress>192.168.3.70</PLC_ControlAddress>
+      <PLC_ControlProt />
+      <PLC_ControlRack>0</PLC_ControlRack>
+      <PLC_ControlSlot>0</PLC_ControlSlot>
+      <State>false</State>
+    </PLC_ControlData>
+  </_PLC_ControlData_List>
+</PLC_Control>

@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Codezerg.OpenRouter</name>
+    </assembly>
+    <members>
+        <member name="T:Codezerg.OpenRouter.Frontend.FrontendModel">
+            <summary>
+            Represents a model from the OpenRouter frontend API
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Frontend.FrontendProvider">
+            <summary>
+            Represents a provider from the OpenRouter frontend API
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ChatRole">
+            <summary>
+            Represents the role of a participant in a chat conversation.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ChatRole.#ctor(System.String)">
+            <summary>
+            Represents the role of a participant in a chat conversation.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ChatRole.System">
+            <summary>
+            System message role, typically used for instructions or context.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ChatRole.User">
+            <summary>
+            User message role, representing input from the user.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ChatRole.Assistant">
+            <summary>
+            Assistant message role, representing responses from the AI model.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ChatRole.Tool">
+            <summary>
+            Tool message role, representing results from tool/function calls.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ChatRole.ToString">
+            <summary>
+            Returns the string representation of the chat role.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ChatRoleConverter">
+            <summary>
+            JSON converter for the ChatRole type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.CompletionFinishReason">
+            <summary>
+            Represents the reason why the model stopped generating tokens.
+            OpenRouter normalizes finish reasons across different providers.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.CompletionFinishReason.#ctor(System.String)">
+            <summary>
+            Represents the reason why the model stopped generating tokens.
+            OpenRouter normalizes finish reasons across different providers.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.CompletionFinishReason.Stop">
+            <summary>
+            The model hit a natural stop point or a provided stop sequence.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.CompletionFinishReason.Length">
+            <summary>
+            The maximum number of tokens specified in the request was reached.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.CompletionFinishReason.ToolCalls">
+            <summary>
+            The model called a tool/function.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.CompletionFinishReason.ContentFilter">
+            <summary>
+            Content was omitted due to a content filter.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.CompletionFinishReason.Error">
+            <summary>
+            An error occurred during generation.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.CompletionFinishReason.ToString">
+            <summary>
+            Returns the string representation of the finish reason.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.CompletionFinishReasonConverter">
+            <summary>
+            JSON converter for the CompletionFinishReason type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.DataCollectionOption">
+            <summary>
+            Represents data collection preferences for provider routing.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.DataCollectionOption.#ctor(System.String)">
+            <summary>
+            Represents data collection preferences for provider routing.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.DataCollectionOption.Allow">
+            <summary>
+            Allow data collection by the provider.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.DataCollectionOption.Deny">
+            <summary>
+            Deny data collection by the provider.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.DataCollectionOption.ToString">
+            <summary>
+            Returns the string representation of the data collection option.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.DataCollectionOptionConverter">
+            <summary>
+            JSON converter for the DataCollectionOption type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.MessageContentType">
+            <summary>
+            Represents the type of content in a chat message part.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.MessageContentType.#ctor(System.String)">
+            <summary>
+            Represents the type of content in a chat message part.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.MessageContentType.Text">
+            <summary>
+            Text content type for regular text messages.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.MessageContentType.ImageUrl">
+            <summary>
+            Image URL content type for images (either URLs or base64 encoded).
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.MessageContentType.InputAudio">
+            <summary>
+            Input audio content type for audio data.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.MessageContentType.ToString">
+            <summary>
+            Returns the string representation of the content type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.MessageContentTypeConverter">
+            <summary>
+            JSON converter for the MessageContentType type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.Modality">
+            <summary>
+            Represents the input/output modalities supported by a model.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.Modality.#ctor(System.String)">
+            <summary>
+            Represents the input/output modalities supported by a model.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.Modality.Text">
+            <summary>
+            Text modality for text input/output.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.Modality.Image">
+            <summary>
+            Image modality for image input/output (vision models or image generation).
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.Modality.Audio">
+            <summary>
+            Audio modality for audio input/output.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.Modality.ToString">
+            <summary>
+            Returns the string representation of the modality.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ModalityConverter">
+            <summary>
+            JSON converter for the Modality type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ObjectType">
+            <summary>
+            Represents the type of object returned in the response.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ObjectType.#ctor(System.String)">
+            <summary>
+            Represents the type of object returned in the response.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ObjectType.ChatCompletion">
+            <summary>
+            Represents a complete chat completion response.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ObjectType.ChatCompletionChunk">
+            <summary>
+            Represents a streaming chunk of a chat completion response.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ObjectType.ToString">
+            <summary>
+            Returns the string representation of the object type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ObjectTypeConverter">
+            <summary>
+            JSON converter for the ObjectType type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.PredictionType">
+            <summary>
+            Represents the type of prediction for latency optimization.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.PredictionType.#ctor(System.String)">
+            <summary>
+            Represents the type of prediction for latency optimization.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.PredictionType.Content">
+            <summary>
+            Content prediction type - provides the model with predicted output to reduce latency.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.PredictionType.ToString">
+            <summary>
+            Returns the string representation of the prediction type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.PredictionTypeConverter">
+            <summary>
+            JSON converter for the PredictionType type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ResponseFormatType">
+            <summary>
+            Represents the type of response format for structured outputs.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ResponseFormatType.#ctor(System.String)">
+            <summary>
+            Represents the type of response format for structured outputs.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ResponseFormatType.JsonObject">
+            <summary>
+            JSON object format - ensures the response is valid JSON.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ResponseFormatType.JsonSchema">
+            <summary>
+            JSON schema format - validates response against a provided schema.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ResponseFormatType.Content">
+            <summary>
+            Content format - used for predicted content responses.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ResponseFormatType.ToString">
+            <summary>
+            Returns the string representation of the response format type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ResponseFormatTypeConverter">
+            <summary>
+            JSON converter for the ResponseFormatType type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ToolType">
+            <summary>
+            Represents the type of tool that can be used in function calling.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ToolType.#ctor(System.String)">
+            <summary>
+            Represents the type of tool that can be used in function calling.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.ToolType.Function">
+            <summary>
+            Function tool type, used for function/tool calling.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.ToolType.ToString">
+            <summary>
+            Returns the string representation of the tool type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.ToolTypeConverter">
+            <summary>
+            JSON converter for the ToolType type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.VerbosityLevel">
+            <summary>
+            Represents the verbosity level for model responses.
+            Controls the length and detail of generated content.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.VerbosityLevel.#ctor(System.String)">
+            <summary>
+            Represents the verbosity level for model responses.
+            Controls the length and detail of generated content.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.VerbosityLevel.Low">
+            <summary>
+            Low verbosity - produces more concise responses.
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.VerbosityLevel.Medium">
+            <summary>
+            Medium verbosity - balanced response length (default).
+            </summary>
+        </member>
+        <member name="F:Codezerg.OpenRouter.Models.VerbosityLevel.High">
+            <summary>
+            High verbosity - produces more detailed and comprehensive responses.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.Models.VerbosityLevel.ToString">
+            <summary>
+            Returns the string representation of the verbosity level.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.Models.VerbosityLevelConverter">
+            <summary>
+            JSON converter for the VerbosityLevel type.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.OpenRouterClient">
+            <summary>
+            Client for interacting with the OpenRouter API.
+            Provides methods for sending chat completion requests to various LLM models.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.#ctor(Codezerg.OpenRouter.OpenRouterClientOptions)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Codezerg.OpenRouter.OpenRouterClient"/> class with the specified configuration.
+            </summary>
+            <param name="config">The configuration options for the client.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="config"/> is null.</exception>
+            <exception cref="T:System.InvalidOperationException">Thrown when the configuration is invalid.</exception>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.#ctor(Codezerg.OpenRouter.OpenRouterClientOptions,System.Net.Http.HttpClient)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Codezerg.OpenRouter.OpenRouterClient"/> class with the specified configuration and HTTP client.
+            </summary>
+            <param name="config">The configuration options for the client.</param>
+            <param name="httpClient">An optional HTTP client instance. If null, a new instance will be created.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="config"/> is null.</exception>
+            <exception cref="T:System.InvalidOperationException">Thrown when the configuration is invalid.</exception>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClient.Configuration">
+            <summary>
+            Gets the configuration used by this client instance.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.SendChatCompletionAsync(Codezerg.OpenRouter.Models.ChatRequest,System.Threading.CancellationToken)">
+            <summary>
+            Sends a chat completion request to the OpenRouter API.
+            </summary>
+            <param name="request">The chat completion request.</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>A task representing the asynchronous operation.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.StreamChatCompletionAsync(Codezerg.OpenRouter.Models.ChatRequest,System.Threading.CancellationToken)">
+            <summary>
+            Sends a streaming chat completion request to the OpenRouter API.
+            </summary>
+            <param name="request">The chat completion request.</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>An async enumerable of chat completion chunks.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetActivityAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets activity data grouped by model endpoint for the last 30 UTC days.
+            Requires a provisioning key for authentication.
+            </summary>
+            <param name="date">Optional date filter in YYYY-MM-DD format.</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>Activity data for the specified period.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetCreditsAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets the total credits purchased and used for the authenticated user.
+            </summary>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>Credit balance information.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetProvidersAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets a list of providers available through the API with their policies and status information.
+            </summary>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>List of available providers.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetModelsAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets a list of models available through the API.
+            </summary>
+            <param name="category">Optional category filter (e.g. "programming").</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>List of available models.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetUserModelsAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets a list of models filtered based on the user's provider preferences.
+            Requires authentication.
+            </summary>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>List of models filtered by user preferences.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetModelEndpointsAsync(System.String,System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets endpoints for a specific model.
+            </summary>
+            <param name="author">The model author.</param>
+            <param name="slug">The model slug.</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>Model endpoints information.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.GetGenerationAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets details for a specific generation by ID.
+            </summary>
+            <param name="id">The generation ID.</param>
+            <param name="cancellationToken">A cancellation token to cancel the operation.</param>
+            <returns>Generation details.</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.Dispose(System.Boolean)">
+            <summary>
+            Releases the unmanaged resources used by the <see cref="T:Codezerg.OpenRouter.OpenRouterClient"/> and optionally releases the managed resources.
+            </summary>
+            <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources.</param>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClient.Dispose">
+            <summary>
+            Releases all resources used by the <see cref="T:Codezerg.OpenRouter.OpenRouterClient"/>.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.OpenRouterClientOptions">
+            <summary>
+            Options for configuring the <see cref="T:Codezerg.OpenRouter.OpenRouterClient"/>.
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.ApiKey">
+            <summary>
+            The API key used to authenticate requests to OpenRouter.
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.Endpoint">
+            <summary>
+            The API endpoint URL (defaults to the OpenRouter API endpoint).
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.DefaultModel">
+            <summary>
+            The default model used for requests, unless overridden per request.
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.Timeout">
+            <summary>
+            Timeout for API requests (default: 100 seconds).
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.UserAgent">
+            <summary>
+            The required User-Agent string for OpenRouter attribution.
+            Example: "my-app/1.0" or "github.com/myuser/myrepo".
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.Referer">
+            <summary>
+            The required "HTTP-Referer" header for OpenRouter attribution.
+            Example: "https://myapp.com".
+            </summary>
+        </member>
+        <member name="P:Codezerg.OpenRouter.OpenRouterClientOptions.EnableDebugLogging">
+            <summary>
+            Whether requests should log debug information.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.OpenRouterClientOptionsExtensions">
+            <summary>
+            Extension methods for <see cref="T:Codezerg.OpenRouter.OpenRouterClientOptions"/>.
+            Provides validation, cloning, and fluent-style configuration.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClientOptionsExtensions.Validate(Codezerg.OpenRouter.OpenRouterClientOptions)">
+            <summary>
+            Validates that the <see cref="T:Codezerg.OpenRouter.OpenRouterClientOptions"/> instance has the required properties set.
+            Throws <see cref="T:System.InvalidOperationException"/> if validation fails.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterClientOptionsExtensions.Clone(Codezerg.OpenRouter.OpenRouterClientOptions)">
+            <summary>
+            Creates a shallow copy of the options instance.
+            </summary>
+        </member>
+        <member name="T:Codezerg.OpenRouter.OpenRouterFrontendClient">
+            <summary>
+            Client for accessing OpenRouter's frontend/private API endpoints.
+            WARNING: These are undocumented private APIs that may change without notice.
+            Use at your own risk in production environments.
+            </summary>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.#ctor(System.Net.Http.HttpClient)">
+            <summary>
+            Initializes a new instance of the OpenRouterFrontendClient.
+            </summary>
+            <param name="httpClient">Optional HttpClient instance. If not provided, a new one will be created.</param>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetProvidersAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets all available providers from the frontend API.
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of providers</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetModelsAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets all available models from the frontend API.
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of models</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.FindModelsAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Finds models based on specific criteria.
+            </summary>
+            <param name="order">Order criteria (e.g., "top-weekly", "top-daily")</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of models</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetModelStatsAsync(System.String,System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets statistics for a specific model endpoint.
+            </summary>
+            <param name="permaslug">Model permaslug (e.g., "openai/gpt-4")</param>
+            <param name="variant">Variant type (default: "standard")</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Model endpoint statistics</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetModelsByProviderAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets models by provider.
+            </summary>
+            <param name="providerSlug">Provider slug (e.g., "openai", "anthropic")</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of models from the specified provider</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetModelsByModalityAsync(System.String,System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets models that support specific modalities.
+            </summary>
+            <param name="inputModality">Required input modality (e.g., "image", "text")</param>
+            <param name="outputModality">Required output modality (optional)</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of models supporting the specified modalities</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetReasoningModelsAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets models that support reasoning (chain-of-thought).
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of reasoning-capable models</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetFreeModelsAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets free models.
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of free models</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetByokProvidersAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets providers that support bring-your-own-key (BYOK).
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of BYOK-enabled providers</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.GetPrivacyFriendlyProvidersAsync(System.Threading.CancellationToken)">
+            <summary>
+            Gets providers with privacy-friendly policies (no training, no retention).
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of privacy-focused providers</returns>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.Dispose(System.Boolean)">
+            <summary>
+            Releases the unmanaged resources used by the <see cref="T:Codezerg.OpenRouter.OpenRouterFrontendClient"/> and optionally releases the managed resources.
+            </summary>
+            <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources.</param>
+        </member>
+        <member name="M:Codezerg.OpenRouter.OpenRouterFrontendClient.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+    </members>
+</doc>

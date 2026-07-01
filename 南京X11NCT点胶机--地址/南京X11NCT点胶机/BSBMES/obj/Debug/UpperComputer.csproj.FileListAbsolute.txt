@@ -1,0 +1,1179 @@
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\侧板改造\M02侧板改造\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\M02侧板改造\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\枣庄622源码\上位机\BSBMES622(new)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\枣庄622源码\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\枣庄622源码\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622源码\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+F:\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+F:\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+F:\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+F:\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+F:\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+F:\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\枣庄622\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\枣庄622\上位机\侧板焊\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\枣庄项目\枣庄622\主线\622侧板焊接4-28\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\SunnyUI.dll
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\622侧板焊接4-29\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\SunnyUI.dll
+D:\Users\Desktop\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\Users\Desktop\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\622侧板焊接6-27\622侧板焊接\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+E:\E171上位机\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\622侧板焊接\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\读欧姆龙PLC\622侧板焊接\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\读欧姆龙PLC\622侧板焊接\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\UpperComputer.exe
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\SunnyUI.dll
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\E171上位机\读欧姆龙PLC\E171极柱清洗机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\UpperComputer.pdb
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\SunnyUI.dll
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\E171上位机\读欧姆龙PLC\E171寻址机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.exe
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.pdb
+E:\上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe
+E:\上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.pdb
+E:\上位机\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\上位机\E171寻址机\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\上位机\E171寻址机\BSBMes\bin\Debug\SunnyUI.dll
+E:\上位机\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.exe
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\UpperComputer.pdb
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\SunnyUI.dll
+E:\E171上位机\E171寻址机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\E171上位机\E171寻址机\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\UpperComputer.exe
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\SunnyUI.dll
+E:\E171上位机\E171寻址机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\E171上位机\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171寻址机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171寻址机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\E171上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\项目文件\程序\义乌\E171\E171上位机\E171上位机\E171NCT点胶机(新)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.10.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\项目文件\程序\义乌\E171\NTC点胶机\2023.10.10\E171NCT点胶机(2023.10.10)\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.10.23\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2023.11.04\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.11.17-加LOGO\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.11.17-修改字节读取\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.17\E171NCT点胶机(新)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2023.11.24-测试新程序\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.dll
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.exe
+D:\项目文件\程序\义乌\E171\03.NTC点胶机\2023.12.14\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2023.12.14-修改IP\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2023.12.14-修改IP\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2023.12.14-修改IP\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe.config
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.Common.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\SunnyUI.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(测试)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe.config
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.pdb
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.Common.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.dll
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+C:\Users\vvv\Desktop\新建文件夹 (2)\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测)10-28wr\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\11-01\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\11-01\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\11-01\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.exe
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.pdb
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.exe
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\UpperComputer.pdb
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\SunnyUI.dll
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\users\s2212230020\桌面\E171NCT点胶机(增加防错样件检测)\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csprojResolveAssemblyReference.cache
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\03.code\2024-5-24 -增加防错样件点检\H77点胶\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.exe
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\UpperComputer.pdb
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\SunnyUI.dll
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csprojAssemblyReference.cache
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.exe
+D:\机台\义务\改造线\点胶\H77\E171NCT点胶机(增加防错样件检测上传）\BSBMes\obj\Debug\UpperComputer.pdb
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\机台\义务\PDM07超重卡\点胶\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机\更新后\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CopyComplete
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\机台\义务\PDM07超重卡\点胶\更新后\新建文件夹\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.SuggestedBindingRedirects.cache
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe.config
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\南京X11 CTP线\250428义务重卡NCT点胶机\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.Cache
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\上位机软件\重卡NCT点胶机--地址\义务重卡NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\上位机软件\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+D:\机台\BU3南京上位机\X11\点胶\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe.config
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.exe
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\UpperComputer.pdb
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.dll
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.Common.dll
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\SunnyUI.dll
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\bin\Debug\Newtonsoft.Json.xml
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUpdatePassword.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserLogoin.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormUserManage.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.FormStart.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Formlogin.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MainForm1.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.ManageShowForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MesLoadParForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MESParForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.MunLoadMESForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.PointAddForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SNForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.UserFingerRegisterForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.Properties.Resources.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.RangValueForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SerialPortForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.SettingForm.resources
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperCom.CB7C7398.Up2Date
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.exe
+E:\GitWareHouse\test\南京X11NCT点胶机--地址\南京X11NCT点胶机\BSBMes\obj\Debug\UpperComputer.pdb

@@ -1,0 +1,6 @@
+账号：2207050348
+密码：jgx1234!
+设备编号：NC2-M01-BSHJ-001
+工序代码：MBHJ01
+制令单号：568-MO2207030123-1     根据生产情况常变
+MES Url: https://ncevmesapi.sunwoda.com/mes/

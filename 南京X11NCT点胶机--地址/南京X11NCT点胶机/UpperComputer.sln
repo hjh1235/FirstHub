@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperComputer", "BSBMes\UpperComputer.csproj", "{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9986EE-069F-4D38-B0C1-5E9C2F6BB20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A310BC-E6D3-4415-A243-169D8EC75292}
+	EndGlobalSection
+EndGlobal
